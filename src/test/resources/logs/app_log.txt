@@ -1,0 +1,37 @@
+INFO    2022-07-04 21:04:52,481 [main] base.BaseTest  - OR Properties loaded !!!
+INFO    2022-07-04 21:04:52,483 [main] base.BaseTest  - Config Properties loaded !!!
+INFO    2022-07-04 21:04:55,911 [main] base.BaseTest  - Chrome Launched !!!
+INFO    2022-07-04 21:05:35,460 [main] base.BaseTest  - Navigated to URL site : https://demo.guru99.com/test/newtours/
+INFO    2022-07-04 21:05:35,852 [main] base.BaseTest  - Typing in Element username_XPATH:swaroopreddy4444@gmail.com
+INFO    2022-07-04 21:05:35,947 [main] base.BaseTest  - Typing in Element password_XPATH:asdasd
+INFO    2022-07-04 21:05:53,387 [main] base.BaseTest  - clicking on Element submit_XPATH
+ERROR   2022-07-04 21:05:53,406 [main] base.BaseTest  - Error while verifying Titles Expected_Login_TITLE
+Error log:	 Titles Mismatched  expected [Welcome: Mercury Tours] but found [Login: Mercury Tours]
+INFO    2022-07-04 21:05:53,933 [main] base.BaseTest  - Test completed
+----------------------------------------------------------------------------
+INFO    2022-07-04 21:05:55,528 [main] base.BaseTest  - Chrome Launched !!!
+INFO    2022-07-04 21:06:21,398 [main] base.BaseTest  - Navigated to URL site : https://demo.guru99.com/test/newtours/
+INFO    2022-07-04 21:06:21,753 [main] base.BaseTest  - Typing in Element username_XPATH:super@gmail.com
+INFO    2022-07-04 21:06:21,835 [main] base.BaseTest  - Typing in Element password_XPATH:sjdk
+INFO    2022-07-04 21:06:24,599 [main] base.BaseTest  - clicking on Element submit_XPATH
+ERROR   2022-07-04 21:06:24,612 [main] base.BaseTest  - Error while verifying Titles Expected_Login_TITLE
+Error log:	 Titles Mismatched  expected [Welcome: Mercury Tours] but found [Login: Mercury Tours]
+INFO    2022-07-04 21:06:25,181 [main] base.BaseTest  - Test completed
+----------------------------------------------------------------------------
+INFO    2022-07-04 21:06:26,699 [main] base.BaseTest  - Chrome Launched !!!
+INFO    2022-07-04 21:06:59,323 [main] base.BaseTest  - Navigated to URL site : https://demo.guru99.com/test/newtours/
+INFO    2022-07-04 21:06:59,666 [main] base.BaseTest  - Typing in Element username_XPATH:praigi2da@gmail.com
+INFO    2022-07-04 21:06:59,759 [main] base.BaseTest  - Typing in Element password_XPATH:sfh
+INFO    2022-07-04 21:07:27,873 [main] base.BaseTest  - clicking on Element submit_XPATH
+ERROR   2022-07-04 21:07:27,896 [main] base.BaseTest  - Error while verifying Titles Expected_Login_TITLE
+Error log:	 Titles Mismatched  expected [Welcome: Mercury Tours] but found [Login: Mercury Tours]
+INFO    2022-07-04 21:07:28,404 [main] base.BaseTest  - Test completed
+----------------------------------------------------------------------------
+INFO    2022-07-04 21:07:30,139 [main] base.BaseTest  - Chrome Launched !!!
+INFO    2022-07-04 21:07:50,609 [main] base.BaseTest  - Navigated to URL site : https://demo.guru99.com/test/newtours/
+INFO    2022-07-04 21:07:50,929 [main] base.BaseTest  - Typing in Element username_XPATH:Tutorial
+INFO    2022-07-04 21:07:51,028 [main] base.BaseTest  - Typing in Element password_XPATH:tutorial
+INFO    2022-07-04 21:08:18,970 [main] base.BaseTest  - clicking on Element submit_XPATH
+INFO    2022-07-04 21:08:18,985 [main] base.BaseTest  - Titles Matched
+INFO    2022-07-04 21:08:19,436 [main] base.BaseTest  - Test completed
+----------------------------------------------------------------------------

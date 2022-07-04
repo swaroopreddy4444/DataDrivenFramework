@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Data Driven Test" parallel="tests" thread-count='5'>
+	<listeners>
+		<listener class-name="ExtentListeners.ExtentListeners" />
+		<listener class-name="RetryFailedTests.AnnotationTransformer" />
+	</listeners>
+	<test name="Test">
+		<classes>
+			<class name="TestCases.LoginTest">
+				<methods>
+					<exclude name="VerifyHomepageTitle" />
+					<exclude name="VerifyRegistrationProcess" />
+					<include name="VerifyLoginSuccess" />
+				</methods>
+			</class>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
